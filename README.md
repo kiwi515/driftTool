@@ -11,3 +11,4 @@ Colors must **not** include alpha values. This is because Mario Kart Wii uses mu
 - [X] Support bike drifts (blue drift/mini-turbo)
 - [ ] Remove color animations on a few effects
 - [ ] Support kart drifts (orange drift/super mini-turbo)
+- [ ] Support editing Common.szs rather than extracting/replacing RKRace.breff
