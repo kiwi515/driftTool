@@ -13,3 +13,5 @@ Colors must **not** include alpha values. This is because Mario Kart Wii uses mu
 - [ ] Support kart drifts (orange drift/super mini-turbo)
 - [ ] Support editing Common.szs rather than extracting/replacing RKRace.breff
 - [ ] Allow for the "mini-turbo" (engine boost) colors to automatically match the drift (optional for the user)
+
+### Feel free to contact me on Discord if you have any issues. kiwi#5018
