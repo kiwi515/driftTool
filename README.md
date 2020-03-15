@@ -13,6 +13,6 @@ Colours must **not** include alpha values. This is because Mario Kart Wii uses m
 - [ ] Remove colour animations on a few effects
 - [ ] Support kart drifts (orange drift)
 - [ ] Support editing Common.szs rather than extracting/replacing RKRace.breff
-
+- [ ] Make a GUI
 
 ### Feel free to contact me on Discord if you have any issues. kiwi#5018
