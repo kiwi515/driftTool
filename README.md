@@ -8,10 +8,11 @@ This tool works with any RKRace.breff file, regardless of its file size, as ever
 Colours must **not** include alpha values. This is because Mario Kart Wii uses multiple alpha values throughout its many drift effects, as such, _this script keeps the vanilla alpha values._ For now, _leave hash-tag prefixes out of the hex colours as well,_ I haven't gotten around to implementing those yet.
 
 ## Supported Features:
-- [X] Support bike drifts (blue drift/mini-turbo)
+- [X] Support bike drifts (blue drift)
+- [X] Allow for the "mini-turbo" (engine boost) colours to automatically match the drift (optional for the user)
 - [ ] Remove colour animations on a few effects
-- [ ] Support kart drifts (orange drift/super mini-turbo)
+- [ ] Support kart drifts (orange drift)
 - [ ] Support editing Common.szs rather than extracting/replacing RKRace.breff
-- [ ] Allow for the "mini-turbo" (engine boost) colours to automatically match the drift (optional for the user)
+
 
 ### Feel free to contact me on Discord if you have any issues. kiwi#5018
